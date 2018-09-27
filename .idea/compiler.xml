@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="http-client" target="1.5" />
+      <module name="http-client" target="1.8" />
       <module name="http-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>

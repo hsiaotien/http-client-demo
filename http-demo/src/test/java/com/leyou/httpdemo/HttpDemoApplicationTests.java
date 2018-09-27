@@ -20,5 +20,4 @@ public class HttpDemoApplicationTests {
 		User user = this.restTemplate.getForObject("http://localhost/hello", User.class);
 		System.out.println(user);
 	}
-
 }
